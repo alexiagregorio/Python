@@ -11,4 +11,4 @@ print(frase.split())
 
 dividido = frase.split()
 print(dividido[0])
-print(dividido[2] [3]) #pegou a segunda palavra e mostrou a 3 letra
+print(dividido[2] [3]) #pegou a Vídeo na posição 2 (0, 1, 2...) e mostrou a letra na posição 3 (0, 1, 2, 3...)

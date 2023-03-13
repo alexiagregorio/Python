@@ -1,6 +1,7 @@
 ##############################################
 
 '''              TIPOS DE FATIAMENTO:
+frase: Curso em Vídeo Python
 
 frase[9] mostra só a 9 casa da frase, ou seja o "V"
 
